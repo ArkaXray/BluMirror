@@ -1,0 +1,4 @@
+deb http://ir.archive.ubuntu.com/ubuntu __CODENAME__ main restricted universe multiverse
+deb http://ir.archive.ubuntu.com/ubuntu __CODENAME__-updates main restricted universe multiverse
+deb http://ir.archive.ubuntu.com/ubuntu __CODENAME__-backports main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu __CODENAME__-security main restricted universe multiverse
